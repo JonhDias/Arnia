@@ -1,0 +1,11 @@
+p{
+    border-bottom: 2px double red; 
+    border-top:2px dashed blue;
+    border-right: 0px;
+    border-left: 2px dotted yellow;
+    color: rgb(230, 26, 121);
+    width: 150px;
+    height: 100px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
